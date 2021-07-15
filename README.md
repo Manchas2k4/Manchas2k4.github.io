@@ -1,5 +1,5 @@
 ## Links:
-- [WSL2 installation and configuration.](https://github.com/Manchas2k4/manchas2k4.github.io/edit/main/wls2_installation.md) 
+- [WSL2 installation and configuration.](https://github.com/Manchas2k4/manchas2k4.github.io/blob/main/wsl2_installation.md) 
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Manchas2k4/manchas2k4.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
